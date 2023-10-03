@@ -1,3 +1,4 @@
+import java.io.*;
 class Rectangle{
     int l,b,a;
     Rectangle(){
