@@ -1,4 +1,4 @@
-public class DefaultClass{
+public class DefaultAccessSpecifierDemo{
     void display(){
         System.out.println("Hello world");
     }
